@@ -4,7 +4,8 @@ IlshiPlay
 A VB .NET tool which plays a sound when an associated key is pressed. This software is under the MIT License.
 
 Preview :
-![ilshiplay](https://cloud.githubusercontent.com/assets/6564012/5492606/14002bfc-86e3-11e4-87a7-0623d43f1f68.jpg)
+
+![ilshiplay](https://cloud.githubusercontent.com/assets/6564012/6316360/19de63b2-ba24-11e4-8e70-06fc099fac6b.jpg)
 
 The application uses :
 - The "VB Cable" driver to redirect the sound in other applications (like Skype, TeamSpeak ...)
@@ -20,6 +21,10 @@ Installation
 
 ChangeLog
 ---------
+
+1.4.0
+Added the option to set a toggle key which prevents the key detect (usefull to avoid playing songs when typing, for example).
+Resized the window.
 
 1.3.0
 Added the option to import and save the used songs in a configuration file.
